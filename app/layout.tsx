@@ -41,9 +41,9 @@ const nacelle = localFont({
 });
 
 export const metadata = {
-  title: "JTEC — Tecnologia & Inovação",
+  title: "JTEC Store — Notebooks, GPUs, CPUs, Monitores e mais",
   description:
-    "JTEC é uma empresa de tecnologia especializada em desenvolvimento fullstack, inteligência artificial e infraestrutura de servidores. Soluções modernas, escaláveis e de alto desempenho em Belo Horizonte.",
+    "A melhor loja de informática de BH: notebooks gamer, placas de vídeo NVIDIA e AMD, processadores Intel e AMD, monitores, periféricos, smartphones. Pagamento via PIX com entrega rápida.",
 };
 
 export default function RootLayout({

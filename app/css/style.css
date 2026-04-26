@@ -114,6 +114,11 @@
     to { transform: translateX(-50%); }
   }
 
+  @keyframes scroll-x-right {
+    from { transform: translateX(-50%); }
+    to { transform: translateX(0); }
+  }
+
   @keyframes sheen {
     0% { transform: translateX(-100%) skewX(-12deg); }
     100% { transform: translateX(200%) skewX(-12deg); }

@@ -5,6 +5,7 @@ export const metadata = {
 };
 
 import HeroBanner from "@/components/home/hero-banner";
+import StatsBar from "@/components/home/stats-bar";
 import BrandsMarquee from "@/components/home/brands-marquee";
 import CategoryGrid from "@/components/home/category-grid";
 import FlashSale from "@/components/home/flash-sale";
@@ -15,6 +16,7 @@ export default function Home() {
   return (
     <>
       <HeroBanner />
+      <StatsBar />
       <BrandsMarquee />
       <CategoryGrid />
       <FlashSale />
